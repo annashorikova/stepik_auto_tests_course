@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
-course homeworks
+В этом репозитории собраны домашние задания из курса по автоматизации тестирования на платформе Stepik:
+https://stepik.org/course/575
